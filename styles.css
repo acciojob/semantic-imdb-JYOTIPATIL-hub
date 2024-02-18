@@ -1,2 +1,37 @@
-
+h1 {
+            color: green;
+            font-family: "Courier New", monospace;
+        }
+        /* This is the style for the nav links */
+        a {
+            color: white;
+            background-color: black;
+            padding: 5px;
+            text-decoration: none;
+        }
+        /* This is the style for the summary */
+        p {
+            font-family: Arial, sans-serif;
+            font-size: 18px;
+        }
+        /* This is the style for the sections */
+        section {
+            border: 2px solid green;
+            margin: 10px;
+            padding: 10px;
+        }
+        /* This is the style for the aside */
+        aside {
+            float: right;
+            width: 200px;
+            border: 2px solid green;
+            margin: 10px;
+            padding: 10px;
+        }
+        /* This is the style for the footer */
+        footer {
+            clear: both;
+            text-align: center;
+            font-weight: bold;
+        }
 /* Your CSS Code here. */
